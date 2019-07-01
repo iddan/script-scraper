@@ -1,0 +1,14 @@
+{
+  "name": "script-scraper",
+  "version": "1.0.0",
+  "description": "<script> HTML tag scraper for Node.js",
+  "main": "script-scraper.js",
+  "author": "Iddan Aaronsohn",
+  "license": "MIT",
+  "dependencies": {
+    "callback-to-async-iterator": "^1.1.1",
+    "domjson": "^0.1.2",
+    "jsdom": "^15.1.1",
+    "request-promise": "^4.2.4"
+  }
+}
