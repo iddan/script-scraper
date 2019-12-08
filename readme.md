@@ -5,7 +5,7 @@
 ### Installation
 
 ```
-npm install script-scraper
+npm install git+https://github.com/iddan/script-scraper
 ```
 
 ### Features
